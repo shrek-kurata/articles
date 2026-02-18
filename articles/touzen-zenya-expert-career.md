@@ -91,7 +91,7 @@ published: false
 
 # 最後に
 
-皆さんも、PoliPoliで一緒に幸せに鬼コミットしませんか？
+PoliPoliではエンジニア採用を募集しております！一緒に幸せに鬼コミットしませんか？
 
 - PoliPoliのサービスは[コチラ](https://polipoli-web.com/)
 - 採用情報は[コチラ](https://herp.careers/v1/polipoli)
