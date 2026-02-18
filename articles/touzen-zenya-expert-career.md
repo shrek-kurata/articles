@@ -91,7 +91,7 @@ published: false
 
 # 最後に
 
-PoliPoliではエンジニアを募集しています！「圧倒的にアジャイル」「プロとしてやり抜く」「ワンチーム」をバリューに掲げ、政策共創という未踏の領域に挑んでいます。
+PoliPoliではエンジニアを募集しています！テクノロジーの力で政策共創という未踏の領域に挑んでいます。
 
-- PoliPoliのサービスは[コチラ](https://polipoli-web.com/)
+- PoliPoliのコーポレートサイトは[コチラ](https://www.polipoli.work/)
 - 採用情報は[コチラ](https://herp.careers/v1/polipoli)
