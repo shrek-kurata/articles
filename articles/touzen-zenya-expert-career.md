@@ -4,6 +4,7 @@ emoji: "🙌"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["エンジニア", "イベント", "キャリア"]
 published: true
+publication_name: "polipoli"
 ---
 
 # 概要
