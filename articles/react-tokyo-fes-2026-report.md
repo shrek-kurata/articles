@@ -27,19 +27,21 @@ https://react-tokyo.connpass.com/event/366003/
 
 # 印象に残ったポスターセッション
 
-40件ものポスターが並ぶ光景は圧巻でした。その中でも特に印象に残ったテーマを紹介します。
+40件ものポスターが並んでおりました。弊社の[高野さん](https://x.com/yuki_kouno_jp/status/2027550935690711131)もポスター登壇されておりました。
 
-## ブラウザで画像がレンダリングされるまで — Kantaro Ono
+特に印象に残ったテーマを紹介します。
+
+## [ブラウザで画像がレンダリングされるまで](https://react-tokyo.vercel.app/fes2026#poster-session) — Kantaro Ono
 
 画像のレンダリングの仕組みとそのパフォーマンスチューニングについての発表でした。ブラウザが画像をどのように処理してレンダリングしているのか、普段あまり意識しない部分を深掘りしていて面白かったです。画像最適化は実務でもよく課題になるので、仕組みを理解した上でチューニングする重要性を改めて感じました。
 
-## React Compiler時代のパフォーマンスチューニング — [soso](https://x.com/sosomuse)
+## [React Compiler時代のパフォーマンスチューニング](https://react-tokyo.vercel.app/fes2026#poster-session) — [soso](https://x.com/sosomuse)
 
 [React Compiler](https://react.dev/learn/react-compiler)によってパフォーマンスチューニングがどう変わるのかという発表。Angularではこのあたりのメモ化をフレームワーク側でうまく処理してくれていましたが、Reactも同様に`useMemo`や`useCallback`が不要な時代になったのは大きな進化だと思いました。手動でのメモ化から解放されるのは開発体験として確実に良くなりますね。
 
-## ReactにおけるWebアクセシビリティ実践 — [やまのく](https://x.com/yamanoku)
+## [ReactにおけるWebアクセシビリティ実践](https://react-tokyo.vercel.app/fes2026#poster-session) — [やまのく](https://x.com/yamanoku)
 
-アクセシビリティに関するポスター発表もありました。生成AIでできるところとできないところが具体的に整理されていて面白かったです。AIの進化でアクセシビリティ対応の自動化が期待される一方で、人間の判断が必要な部分も多いという気づきがありました。
+アクセシビリティに関するポスター発表もありました。生成AIでできるところとできないところが具体的に整理されていて面白かったです。特に[WAI（Web Accessibility Initiative）](https://www.w3.org/WAI/)の部分は人間が実施するべきというところなど、実践的な知見がポスターにまとめられておりました。
 
 # Fishbowl「AI x フロントエンドの未来」
 
