@@ -328,6 +328,8 @@ monorepo/
 
 :::details MCP Tool Searchとの対比（詳細）
 
+「SkillsにもMCP Tool Searchのような遅延ロードが欲しい」──Skillの数が増えてくると、こう考える方は多いのではないでしょうか。MCPツールには`defer_loading`という強力なトークン削減機構がありますが、Skillsには同等の仕組みが存在しません。この違いを理解しておくことで、「Skillが多すぎてbudgetから溢れる」問題に直面したとき、MCPツール側に逃がすべきか・descriptionを最適化すべきかの判断ができるようになります。
+
 ### MCP Tool Searchの仕組み
 
 [MCP公式ドキュメント](https://code.claude.com/docs/en/mcp)および[Tool Search Tool](https://platform.claude.com/docs/en/agents-and-tools/tool-use/tool-search-tool)によると、MCPツールには`defer_loading`による遅延ロードの仕組みがあります。
