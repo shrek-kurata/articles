@@ -1,5 +1,5 @@
 ---
-title: "Claude Code Agent Skills 完全設計ガイド ─ トークン予算・ネスト発見・compaction対策"
+title: "Claude Code Agent Skills 設計ガイド ─ トークン予算・ネスト発見・compaction対策"
 emoji: "🧩"
 type: "tech"
 topics: ["ClaudeCode", "AgentSkills", "AI", "開発効率化"]
@@ -516,7 +516,6 @@ Context breakdown:
   Total:                70,950 tokens
 ```
 
-<!-- TODO: /context のスクリーンショット -->
 
 `Showing 42 of 63 skills due to token limits`という警告が出たら、descriptionの文字数を削減するか、不要なSkillを削除する必要があります。
 
