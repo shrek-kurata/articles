@@ -3,7 +3,7 @@ title: "Claude Code Agent Skills 設計ガイド ─ トークン予算・ネス
 emoji: "🧩"
 type: "tech"
 topics: ["ClaudeCode", "AgentSkills", "AI", "開発効率化"]
-published: false
+published: true
 ---
 
 :::message
